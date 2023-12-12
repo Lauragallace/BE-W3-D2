@@ -1,4 +1,4 @@
-package laura.gallace;
+package lauragallace;
 
 import org.junit.jupiter.api.Test;
 
